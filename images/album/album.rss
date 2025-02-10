@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>atractii</title>
+   	<link>.</link>
+        <generator>jAlbum 12</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Champs-Elysées</title>
+            <link>slides/Champs-Elysées.jpg</link>
+            <pubDate>Fri, 25 Apr 2014 04:39:31 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Champs-Elysées.jpg" width="90" height="90"/>
+            <media:content type="image/jpeg" url="slides/Champs-Elysées.jpg" width="640" height="422"/>
+            <jalbum:exif originalDate="07.09.2007 14:31" cameraMake="NIKON" cameraModel="E8700"/>
+            <guid isPermaLink="false">slides/Champs-Elysées.jpg</guid>
+        </item>
+        <item>
+            <title>Sacré-Cœur,_Paris_at_night</title>
+            <link>slides/Sacré-Cœur,_Paris_at_night.jpg</link>
+            <pubDate>Fri, 25 Apr 2014 04:39:31 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Sacré-Cœur,_Paris_at_night.jpg" width="90" height="90"/>
+            <media:content type="image/jpeg" url="slides/Sacré-Cœur,_Paris_at_night.jpg" width="640" height="427"/>
+            <jalbum:exif originalDate="18.12.2012 18:27" cameraMake="Canon" cameraModel="Canon EOS 550D"/>
+            <guid isPermaLink="false">slides/Sacré-Cœur,_Paris_at_night.jpg</guid>
+        </item>
+        <item>
+            <title>sacre-coeur-mare</title>
+            <link>slides/sacre-coeur-mare.jpg</link>
+            <pubDate>Fri, 25 Apr 2014 04:39:31 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/sacre-coeur-mare.jpg" width="90" height="90"/>
+            <media:content type="image/jpeg" url="slides/sacre-coeur-mare.jpg" width="600" height="400"/>
+            <guid isPermaLink="false">slides/sacre-coeur-mare.jpg</guid>
+        </item>
+        <item>
+            <title>Notre_Dame_de_Paris_by_night_time</title>
+            <link>slides/Notre_Dame_de_Paris_by_night_time.jpg</link>
+            <pubDate>Fri, 25 Apr 2014 04:39:31 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Notre_Dame_de_Paris_by_night_time.jpg" width="90" height="90"/>
+            <media:content type="image/jpeg" url="slides/Notre_Dame_de_Paris_by_night_time.jpg" width="636" height="480"/>
+            <jalbum:exif originalDate="26.11.2006 17:59" cameraMake="PENTAX Corporation " cameraModel="PENTAX K100D       "/>
+            <guid isPermaLink="false">slides/Notre_Dame_de_Paris_by_night_time.jpg</guid>
+        </item>
+        <item>
+            <title>369095775-notre-dame-de-paris-nef-la-nuit</title>
+            <link>slides/369095775-notre-dame-de-paris-nef-la-nuit.jpg</link>
+            <pubDate>Fri, 25 Apr 2014 04:39:31 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/369095775-notre-dame-de-paris-nef-la-nuit.jpg" width="90" height="90"/>
+            <media:content type="image/jpeg" url="slides/369095775-notre-dame-de-paris-nef-la-nuit.jpg" width="500" height="334"/>
+            <guid isPermaLink="false">slides/369095775-notre-dame-de-paris-nef-la-nuit.jpg</guid>
+        </item>
+        <item>
+            <title>Notre_dame_de_Paris_vue_de_la_tour_montparnasse</title>
+            <link>slides/Notre_dame_de_Paris_vue_de_la_tour_montparnasse.JPG</link>
+            <pubDate>Fri, 25 Apr 2014 04:39:31 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Notre_dame_de_Paris_vue_de_la_tour_montparnasse.JPG" width="90" height="90"/>
+            <media:content type="image/jpeg" url="slides/Notre_dame_de_Paris_vue_de_la_tour_montparnasse.JPG" width="640" height="426"/>
+            <jalbum:exif originalDate="25.06.2008 19:06" cameraMake="Panasonic" cameraModel="DMC-TZ3"/>
+            <guid isPermaLink="false">slides/Notre_dame_de_Paris_vue_de_la_tour_montparnasse.JPG</guid>
+        </item>
+        <item>
+            <title>Muzeul_Luvru_Paris_0</title>
+            <link>slides/Muzeul_Luvru_Paris_0.jpg</link>
+            <pubDate>Fri, 25 Apr 2014 04:39:31 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Muzeul_Luvru_Paris_0.jpg" width="90" height="90"/>
+            <media:content type="image/jpeg" url="slides/Muzeul_Luvru_Paris_0.jpg" width="640" height="421"/>
+            <guid isPermaLink="false">slides/Muzeul_Luvru_Paris_0.jpg</guid>
+        </item>
+        <item>
+            <title>fact_paris_luvr01</title>
+            <link>slides/fact_paris_luvr01.jpg</link>
+            <pubDate>Fri, 25 Apr 2014 04:39:31 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/fact_paris_luvr01.jpg" width="90" height="90"/>
+            <media:content type="image/jpeg" url="slides/fact_paris_luvr01.jpg" width="640" height="479"/>
+            <guid isPermaLink="false">slides/fact_paris_luvr01.jpg</guid>
+        </item>
+        <item>
+            <title>1325599565palatul-luvru-paris-913</title>
+            <link>slides/1325599565palatul-luvru-paris-913.jpg</link>
+            <pubDate>Fri, 25 Apr 2014 04:39:31 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/1325599565palatul-luvru-paris-913.jpg" width="90" height="90"/>
+            <media:content type="image/jpeg" url="slides/1325599565palatul-luvru-paris-913.jpg" width="640" height="427"/>
+            <guid isPermaLink="false">slides/1325599565palatul-luvru-paris-913.jpg</guid>
+        </item>
+        <item>
+            <title>louvre2</title>
+            <link>slides/louvre2.jpg</link>
+            <pubDate>Fri, 25 Apr 2014 04:39:31 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/louvre2.jpg" width="90" height="90"/>
+            <media:content type="image/jpeg" url="slides/louvre2.jpg" width="595" height="480"/>
+            <jalbum:exif originalDate="05.05.2009 21:27" cameraMake="NIKON CORPORATION" cameraModel="NIKON D3"/>
+            <guid isPermaLink="false">slides/louvre2.jpg</guid>
+        </item>
+        <item>
+            <title>luvru11_w4c</title>
+            <link>slides/luvru11_w4c.jpg</link>
+            <pubDate>Fri, 25 Apr 2014 04:39:31 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/luvru11_w4c.jpg" width="90" height="90"/>
+            <media:content type="image/jpeg" url="slides/luvru11_w4c.jpg" width="640" height="360"/>
+            <guid isPermaLink="false">slides/luvru11_w4c.jpg</guid>
+        </item>
+        <item>
+            <title>luvru05_w4c</title>
+            <link>slides/luvru05_w4c.jpg</link>
+            <pubDate>Fri, 25 Apr 2014 04:39:31 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/luvru05_w4c.jpg" width="90" height="90"/>
+            <media:content type="image/jpeg" url="slides/luvru05_w4c.jpg" width="640" height="360"/>
+            <guid isPermaLink="false">slides/luvru05_w4c.jpg</guid>
+        </item>
+        <item>
+            <title>arcul-de-triumf</title>
+            <link>slides/arcul-de-triumf.jpg</link>
+            <pubDate>Fri, 25 Apr 2014 04:39:31 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/arcul-de-triumf.jpg" width="90" height="90"/>
+            <media:content type="image/jpeg" url="slides/arcul-de-triumf.jpg" width="600" height="429"/>
+            <jalbum:exif originalDate="14.08.2006 20:03" cameraMake="Canon" cameraModel="Canon EOS 350D DIGITAL"/>
+            <guid isPermaLink="false">slides/arcul-de-triumf.jpg</guid>
+        </item>
+        <item>
+            <title>arc-de-triomphe-paris_ai4e</title>
+            <link>slides/arc-de-triomphe-paris_ai4e.jpg</link>
+            <pubDate>Fri, 25 Apr 2014 04:39:31 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/arc-de-triomphe-paris_ai4e.jpg" width="90" height="90"/>
+            <media:content type="image/jpeg" url="slides/arc-de-triomphe-paris_ai4e.jpg" width="640" height="427"/>
+            <guid isPermaLink="false">slides/arc-de-triomphe-paris_ai4e.jpg</guid>
+        </item>
+        <item>
+            <title>Tour_eiffel_de_nuit</title>
+            <link>slides/Tour_eiffel_de_nuit.jpg</link>
+            <pubDate>Fri, 25 Apr 2014 04:39:31 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Tour_eiffel_de_nuit.jpg" width="90" height="90"/>
+            <media:content type="image/jpeg" url="slides/Tour_eiffel_de_nuit.jpg" width="640" height="361"/>
+            <jalbum:exif originalDate="28.05.2011 21:35" cameraMake="NIKON CORPORATION" cameraModel="NIKON D70"/>
+            <guid isPermaLink="false">slides/Tour_eiffel_de_nuit.jpg</guid>
+        </item>
+        <item>
+            <title>Tour_Eiffel,_École_militaire,_Champ-de-Mars,_Palais_de_Chaillot,_La_Défense_-_03</title>
+            <link>slides/Tour_Eiffel,_École_militaire,_Champ-de-Mars,_Palais_de_Chaillot,_La_Défense_-_03.jpg</link>
+            <pubDate>Fri, 25 Apr 2014 04:39:31 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Tour_Eiffel,_École_militaire,_Champ-de-Mars,_Palais_de_Chaillot,_La_Défense_-_03.jpg" width="90" height="90"/>
+            <media:content type="image/jpeg" url="slides/Tour_Eiffel,_École_militaire,_Champ-de-Mars,_Palais_de_Chaillot,_La_Défense_-_03.jpg" width="640" height="480"/>
+            <jalbum:exif originalDate="19.02.2012 14:38" cameraMake="Canon" cameraModel="Canon PowerShot G11"/>
+            <guid isPermaLink="false">slides/Tour_Eiffel,_École_militaire,_Champ-de-Mars,_Palais_de_Chaillot,_La_Défense_-_03.jpg</guid>
+        </item>
+        <item>
+            <title>la_tour_eiffel-wide</title>
+            <link>slides/la_tour_eiffel-wide.jpg</link>
+            <pubDate>Fri, 25 Apr 2014 04:39:31 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/la_tour_eiffel-wide.jpg" width="90" height="90"/>
+            <media:content type="image/jpeg" url="slides/la_tour_eiffel-wide.jpg" width="640" height="400"/>
+            <guid isPermaLink="false">slides/la_tour_eiffel-wide.jpg</guid>
+        </item>
+        <item>
+            <title>tour_eiffel_nuit_14mm_1</title>
+            <link>slides/tour_eiffel_nuit_14mm_1.jpg</link>
+            <pubDate>Fri, 25 Apr 2014 04:39:31 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/tour_eiffel_nuit_14mm_1.jpg" width="90" height="90"/>
+            <media:content type="image/jpeg" url="slides/tour_eiffel_nuit_14mm_1.jpg" width="640" height="428"/>
+            <guid isPermaLink="false">slides/tour_eiffel_nuit_14mm_1.jpg</guid>
+        </item>
+        <item>
+            <title>129139__la-tour-eiffel-eiffel-tower-eiffel-tower-paris-paris-france-france-the-trees-the-river_p</title>
+            <link>slides/129139__la-tour-eiffel-eiffel-tower-eiffel-tower-paris-paris-france-france-the-trees-the-river_p.jpg</link>
+            <pubDate>Fri, 25 Apr 2014 04:39:31 +0300</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/129139__la-tour-eiffel-eiffel-tower-eiffel-tower-paris-paris-france-france-the-trees-the-river_p.jpg" width="90" height="90"/>
+            <media:content type="image/jpeg" url="slides/129139__la-tour-eiffel-eiffel-tower-eiffel-tower-paris-paris-france-france-the-trees-the-river_p.jpg" width="640" height="433"/>
+            <guid isPermaLink="false">slides/129139__la-tour-eiffel-eiffel-tower-eiffel-tower-paris-paris-france-france-the-trees-the-river_p.jpg</guid>
+        </item>
+    </channel>
+</rss>
